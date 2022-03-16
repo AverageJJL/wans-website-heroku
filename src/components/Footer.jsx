@@ -4,7 +4,7 @@ import Reveal from 'react-reveal/Reveal';
 function Footer(){
   return(
     <div id="footer">
-      <footer class="page-footer font-small text-white pt-4">
+      <footer class="page-footer font-small text-white pt-4" style={{marginTop:"50px"}}>
 
       <div class="container-fluid text-center text-md-left">
 

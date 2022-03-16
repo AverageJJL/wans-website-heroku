@@ -17,7 +17,7 @@ function OrderNow(){
           <div className="bg-light box-shadow mx-auto" style={{width: "80%", height: "400px", borderRadius: "21px 21px 21px 21px", backgroundColor:"#EEEEEE"}}>
             <p>Currently, online ordering is unavailable <br/> however you can still view our menu and learn more about our items by clicking the button below</p>
             <Reveal effect="animate__slideInDown" duration={1500}>
-            <a className="btn btn-lg btn-warning" href="./routes/ourMenu.jsx">Our Menu</a>
+            <a className="btn btn-lg btn-warning" style={{zIndex:"10"}} href="./routes/ourMenu.jsx">Our Menu</a>
             </Reveal>
           </div>
           </Reveal>

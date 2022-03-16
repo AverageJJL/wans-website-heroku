@@ -18,5 +18,6 @@ ReactDOM.render(
   </Routes>
   </BrowserRouter>,
   rootElement
+  
 );
 // <Route path="/routes/cart.jsx" element={<Cart/>}/>

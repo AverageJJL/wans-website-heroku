@@ -672,4 +672,39 @@ h5 {
   }
 }
 
+@media(max-width:420px){
+  
+  .carousel-inner{
+    height:178rem;
+  }
+  .starter-height{
+    height:200rem;
+  }
+  .extra-height{
+    height:220rem;
+  }
+  .extra-extra-height{
+    height:190rem;
+  }
+  .decrease-height{
+    height:160rem;
+  }
+  .extra-portion-height{
+    height:245rem;
+  }
+  .indicatorBtn{
+    font-size: 1rem !important;
+    top:2rem;
+    left:0;
+    width:7.5rem !important;
+    height:4rem !important;
+    margin-top: 1rem;
+  
+  }
+  .header-h1 {
+    font-size: 3rem !important;
+}
+
+}
+
 

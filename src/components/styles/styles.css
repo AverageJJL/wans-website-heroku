@@ -244,3 +244,13 @@ iframe{
   text-decoration: none ;
   color: white;
 }
+
+@media(max-width:420px){
+  .order-now-elements a {
+    margin-top: 0.5rem;
+  }
+  iframe{
+    width:300px !important;
+    height:300px !important;
+  }
+}

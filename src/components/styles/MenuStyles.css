@@ -703,7 +703,15 @@ h5 {
   }
   .header-h1 {
     font-size: 3rem !important;
-}
+  }
+  .cart-card {
+    max-height: 90%;
+
+  }
+  .cart{
+    padding-bottom:0
+  }
+
 
 }
 
